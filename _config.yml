@@ -1,8 +1,26 @@
-layout_spectrum: 0.4796894
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4151732
 color:
   saturation: 0.2801673
   lightness: 0.3148148
   brandStrength: 0
+  brandColors:
+    - '#D4E5F7'
+    - '#6E90B3'
+    - '#050D02'
+    - '#B7A98F'
+    - '#445533'
   rhythmicContrast: 0.2980884
+layout_spectrum: 0.4796894
 name: YogaPedic
