@@ -1,0 +1,14 @@
+layout_spectrum: 0.2904964
+typography_spectrum: 0.3741091
+color:
+  saturation: 0.6071714
+  lightness: 0.6043332
+  brandStrength: 0.6841102
+  rhythmicContrast: 0.3894075
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: YogaPedic
