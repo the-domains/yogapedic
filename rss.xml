@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YogaPedic]]></title>
+        <description><![CDATA[YogaPedic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 15:32:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In A Yoga Rut? 6 Ways To Mix It Up | Care2 Healthy Living]]></title>
+            <description><![CDATA[<article><h1>In A Yoga Rut? 6 Ways To Mix It Up | Care2 Healthy Living</h1><p>Yoga purists, you may want to stop reading. Not to knock tradition, but sometimes breaking the rules can be a lot of fun-and it can help you get out of a rut if you've been feeling bored with your own yoga practice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d355162cd1efac9a3d7433c7b61a0c1/noop.jpg?input=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2Fuploads%2F2016%2F07%2FThinkstockPhotos-489224759.jpg"></article>]]></description>
+            <link>http://www.care2.com/greenliving/in-a-yoga-rut-6-fun-ways-to-mix-it-up.html</link>
+            <guid isPermaLink="false">47e34bcc-95f4-47a8-a298-b498804819c4</guid>
+            <pubDate>Fri, 08 Jul 2016 15:32:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
