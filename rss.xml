@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[YogaPedic]]></title>
         <description><![CDATA[YogaPedic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yogapedic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 15:32:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 15:32:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yogapedic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Bartenders and Firefighters Are Practicing Yoga at Work]]></title>
+            <description><![CDATA[<article><h1>Why Bartenders and Firefighters Are Practicing Yoga at Work</h1><p>Marcia Polas doesn't care about what goes into a cocktail. When she watches a bartender at his craft, she's more concerned about crooked shoulders, locked knees, uneven hips, swollen fingers, and creaky joints. "Nobody has any grasp of how physically taxing bartending is," Polas says.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ea172f9f070208fecbfa97354070f82/noop.jpg?input=http%3A%2F%2Fcdn.citylab.com%2Fmedia%2Fimg%2Fcitylab%2F2016%2F07%2Ffirefighers1-1%2Flead_large.jpg"></article>]]></description>
+            <link>http://www.citylab.com/navigator/2016/07/firefighters-bartenders-yoga-pilates-mind-body-awareness-urban-jobs/490061/</link>
+            <guid isPermaLink="false">81998fe7-5deb-48c6-a243-883f786af365</guid>
+            <pubDate>Fri, 08 Jul 2016 15:32:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In A Yoga Rut? 6 Ways To Mix It Up | Care2 Healthy Living]]></title>
             <description><![CDATA[<article><h1>In A Yoga Rut? 6 Ways To Mix It Up | Care2 Healthy Living</h1><p>Yoga purists, you may want to stop reading. Not to knock tradition, but sometimes breaking the rules can be a lot of fun-and it can help you get out of a rut if you've been feeling bored with your own yoga practice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d355162cd1efac9a3d7433c7b61a0c1/noop.jpg?input=http%3A%2F%2Fdingo.care2.com%2Fpictures%2Fgreenliving%2Fuploads%2F2016%2F07%2FThinkstockPhotos-489224759.jpg"></article>]]></description>
